@@ -33,7 +33,7 @@ var ErrorModal = React.createClass({
   },
   render: function() {
     return (
-      <div className="BUMBUM"></div>
+      <div></div>
     );
   }
 });
